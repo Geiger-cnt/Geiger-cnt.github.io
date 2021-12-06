@@ -36,7 +36,7 @@ Este site tem como proposição ensinar uma maneira de montar um simples contado
 - Arduino UNO
 - Módulo contador Geiger com Âmpola
 
-### Eletronica
+### EletrÔnica
 
 ### Código
 
