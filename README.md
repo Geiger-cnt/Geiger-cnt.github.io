@@ -8,9 +8,19 @@ Bora medir radiação?!
 
 ### O que é radiação?
 
+"Em física, radiação é a propagação de energia de um ponto a outro, seja no vácuo ou em qualquer meio material, podendo ser classificada como energia em trânsito, e podendo ocorrer através de uma onda eletromagnética ou partícula." - Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o).
+
+### Radiação ionizante
+"Radiação ionizante é a radiação que possui energia suficiente para ionizar átomos e moléculas, ou seja, é capaz de arrancar um elétron de um átomo ou molécula. " - Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_ionizante)
+
 ### Que tipos de radiação existem?
 
-### Tipos de radiação ionizante
+| Radiação | Significado |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Alfa             | Radiação nuclear ionizante que apresenta dois prótons e dois nêutrons                                                                    |
+| Beta             | Elétrons sem massa e com carga menos um                                                                                                  |
+| Gama             | Ondas eletromagnéticas com carga nula                                                                                                    |
+| X                | Ondas eletromagnéticas que possuem a capacidade de atravessar corpos de baixa densidade e são absorvidos por materiais de densidade maior|
 
 ### Instrumento de Aferição
 
