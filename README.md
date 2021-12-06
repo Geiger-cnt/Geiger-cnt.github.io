@@ -13,7 +13,7 @@ Bora medir radiação?!
 ### Radiação ionizante
 "Radiação ionizante é a radiação que possui energia suficiente para ionizar átomos e moléculas, ou seja, é capaz de arrancar um elétron de um átomo ou molécula. " - Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_ionizante)
 
-### Que tipos de radiação existem?
+### Tipos de radiação que existem
 
 | Radiação | Significado |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
