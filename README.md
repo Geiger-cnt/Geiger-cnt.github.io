@@ -26,6 +26,7 @@ Este site tem como proposição ensinar uma maneira de montar um simples contado
 
 ### Código
 
+- Declaração das variaveis
 ```cpp
 #include <SPI.h>
 
@@ -41,7 +42,9 @@ unsigned int multiplier;
 unsigned long previousMillis;
 
 void tube_impulse(){counts++;}
-
+```
+- Setup
+```cpp
 void setup() {
   cpm = 0;
   counts = 0;
@@ -55,7 +58,9 @@ void setup() {
 
   attachInterrupt(0, tube_impulse, FALLING);
 }
-
+```
+- Main code
+```cpp
 void loop() {
   unsigned long currentMillis = millis();
 
