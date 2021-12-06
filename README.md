@@ -68,7 +68,6 @@ void setup() {
 ```cpp
 void loop() {
   unsigned long currentMillis = millis();
-
   if (currentMillis - previousMillis > LOG_PERIOD) {
     previousMillis = currentMillis;
     cpm = counts * multiplier;
