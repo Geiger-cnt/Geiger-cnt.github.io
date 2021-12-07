@@ -36,7 +36,7 @@ Este site tem como proposição ensinar uma maneira de montar um simples contado
 - Arduino UNO
 - Módulo contador Geiger com Âmpola
 
-### EletrÔnica
+### Eletrônica
 
 ### Código
 
@@ -45,11 +45,11 @@ Este site tem como proposição ensinar uma maneira de montar um simples contado
 ```cpp
 #include <SPI.h>
 
-#define LOG_PERIOD 15000     //Logging period in milliseconds, recommended value 15000-60000.
-#define MAX_PERIOD 60000    //Maximum logging period
-#define GM 2
+#define LOG_PERIOD 15000     //Mínimo periodo em  millisegundos. Limite: 15000-60000.
+#define MAX_PERIOD 60000    //Máximo periodo em  millisegundos
+#define GM 2 //Pino do contador Geiger-Muller
 
-unsigned long counts;
+unsigned long counts; //Ativa da contagem
 
 unsigned long cpm;
 unsigned int multiplier; 
@@ -63,6 +63,7 @@ void tube_impulse(){counts++;}
 
 ```cpp
 void setup() {
+  //Seta as variaveis com os valores iniciais
   cpm = 0;
   counts = 0;
   previousMillis = 0;
@@ -70,25 +71,25 @@ void setup() {
   
   Serial.begin(9600);                                   
 
-  pinMode(GM, INPUT);
-  digitalWrite(GM, HIGH);
+  pinMode(GM, INPUT);//Define o pino do módulo como 'input'(leitura)
+  digitalWrite(GM, HIGH);//Define um valor inicial como ligado
 
-  attachInterrupt(0, tube_impulse, FALLING);
+  attachInterrupt(0, tube_impulse, FALLING);//Interrupção do pino do módulo 
 }
 ```
 - Main code
 ```cpp
 void loop() {
   unsigned long currentMillis = millis();
-  if (currentMillis - previousMillis > LOG_PERIOD) {
-    previousMillis = currentMillis;
-    cpm = counts * multiplier;
+    if (currentMillis - previousMillis > LOG_PERIOD) {
+        previousMillis = currentMillis;
+        cpm = counts * multiplier;
 
-    Serial.print(cpm);
-    Serial.write(' ');
+        Serial.print(cpm);
+        Serial.write(' ');
 
-    counts = 0;
-  }
+        counts = 0;
+    }
 }
 ```
 - [Código completo](https://github.com/Geiger-cnt/Geiger-cnt.github.io/blob/main/geiger/geiger.ino)
