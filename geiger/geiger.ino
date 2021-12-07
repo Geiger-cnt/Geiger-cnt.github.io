@@ -1,7 +1,7 @@
 #include <SPI.h>
 
-#define LOG_PERIOD 15000     //Logging period in milliseconds, recommended value 15000-60000.
-#define MAX_PERIOD 60000    //Maximum logging period
+#define LOG_PERIOD 15000    
+#define MAX_PERIOD 60000 
 #define GM 2
 
 unsigned long counts;
@@ -29,7 +29,6 @@ void setup() {
 
 void loop() {
   unsigned long currentMillis = millis();
-
   if (currentMillis - previousMillis > LOG_PERIOD) {
     previousMillis = currentMillis;
     cpm = counts * multiplier;
