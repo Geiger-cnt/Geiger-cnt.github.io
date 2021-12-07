@@ -1,4 +1,4 @@
-## Contador Geiger
+## Geiger-Muller
 
 Bora medir radiação?!
 
@@ -98,6 +98,5 @@ void loop() {
   }
   
 }
-
 ```
 - [Código completo](https://github.com/Geiger-cnt/Geiger-cnt.github.io/blob/main/geiger/geiger.ino)
