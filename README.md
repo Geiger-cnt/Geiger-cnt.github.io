@@ -81,8 +81,8 @@ void setup() {
 ```cpp
 void loop() {
   /*
-    Caso não ocorra a interrupção e caso se o tempo decorrido seja superior ao valor minimo para o tempo necessário para contagem,
-    é impresso o valor do CPM.
+    Caso não ocorra a interrupção e caso se o tempo decorrido seja superior ao valor minimo
+    para o tempo necessário para contagem, é impresso o valor do CPM.
   */
   unsigned long currentMillis = millis();
     if (currentMillis - previousMillis > LOG_PERIOD) {
