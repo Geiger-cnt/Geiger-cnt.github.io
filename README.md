@@ -4,7 +4,7 @@ Bora medir radiação?!
 
 ![Screenshot](imgs/a.png)
 
-## Um pouco mais sobre
+## Uma breve introdução...
 
 ### O que é radiação?
 
@@ -94,6 +94,7 @@ void loop() {
 
       counts = 0;
   }
+  
 }
 ```
 - [Código completo](https://github.com/Geiger-cnt/Geiger-cnt.github.io/blob/main/geiger/geiger.ino)
