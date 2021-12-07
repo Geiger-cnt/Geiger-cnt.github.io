@@ -38,7 +38,7 @@ Este site tem como proposição ensinar uma maneira de montar um simples contado
 
 ![Screenshot](imgs/a.jpeg)
 
-- Módulo contador Geiger com Âmpola
+- Módulo contador Geiger com Ampola
 
 ![Screenshot](imgs/b.jpeg)
 
