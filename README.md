@@ -44,7 +44,7 @@ Este site tem como proposição ensinar uma maneira de montar um simples contado
 
 - x3 Jumpers
 
-![Screenshot](imgs/a.jpg)
+![Screenshot](imgs/c.png)
 
 ### Eletrônica
 
