@@ -33,8 +33,11 @@ A principal função do contador de Geiger é detectar radiação na atmosfera, 
 Este site tem como proposição ensinar uma maneira de montar um simples contador Geiger utilizando a plataforma Arduino.
 
 ### Materiais
+
 - Arduino UNO
+
 ![Screenshot](imgs/a.jpeg)
+
 - Módulo contador Geiger com Âmpola
 
 ### Eletrônica
