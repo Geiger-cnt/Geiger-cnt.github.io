@@ -77,7 +77,9 @@ void setup() {
   attachInterrupt(0, tube_impulse, FALLING);//Interrupção do pino do módulo 
 }
 ```
+
 - Main code
+
 ```cpp
 void loop() {
   /*
@@ -96,5 +98,6 @@ void loop() {
   }
   
 }
+
 ```
 - [Código completo](https://github.com/Geiger-cnt/Geiger-cnt.github.io/blob/main/geiger/geiger.ino)
