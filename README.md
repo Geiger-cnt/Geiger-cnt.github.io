@@ -40,6 +40,8 @@ Este site tem como proposição ensinar uma maneira de montar um simples contado
 
 - Módulo contador Geiger com Âmpola
 
+![Screenshot](imgs/b.jpeg)
+
 ### Eletrônica
 
 ### Código
