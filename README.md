@@ -85,15 +85,15 @@ void loop() {
     para o tempo necessário para contagem, é impresso o valor do CPM.
   */
   unsigned long currentMillis = millis();
-    if (currentMillis - previousMillis > LOG_PERIOD) {
-        previousMillis = currentMillis;
-        cpm = counts * multiplier;
+  if (currentMillis - previousMillis > LOG_PERIOD) {
+      previousMillis = currentMillis;
+      cpm = counts * multiplier;
 
-        Serial.print(cpm);
-        Serial.write(' ');
+      Serial.print(cpm);
+      Serial.write(' ');
 
-        counts = 0;
-    }
+      counts = 0;
+  }
 }
 ```
 - [Código completo](https://github.com/Geiger-cnt/Geiger-cnt.github.io/blob/main/geiger/geiger.ino)
