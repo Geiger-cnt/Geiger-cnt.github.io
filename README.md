@@ -49,7 +49,7 @@ Este site tem como proposição ensinar uma maneira de montar um simples contado
 #define MAX_PERIOD 60000    //Máximo periodo em  millisegundos
 #define GM 2 //Pino do contador Geiger-Muller
 
-unsigned long counts; //Ativa da contagem
+unsigned long counts; //Realiza a contagem
 
 unsigned long cpm;
 unsigned int multiplier; 
