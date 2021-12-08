@@ -28,6 +28,16 @@ A principal função do contador de Geiger é detectar radiação na atmosfera, 
 
 ### Unidade de medida (CPM)
 
+CPM é a conatgem por minuto exibida no medidor análogo do contador Geiger. Você pode às vezes ver contagem por segundo (CPS), mas pode facilmente cnverter o CPM para contagem por segundo (CPS), dividindo o seu valor por 60.
+
+As medições de contagens por minuto são geralmente usadas para pegar o número de partículas ao redor, o que pode incluir partículas alfa ou beta. Em vez de mostrar a quantidade de radiação que algo está emitindo, os níveis de radiação do CPM informam quantos eventos de detecção o medidor capta. Portanto, o valor do CPM não mostra a quantidade ou a intensidade da radiação. . O dispositivo que você está usando para medir a radiação também pode informar a taxa de dose, embora a conversão de CPM para taxa de dose varie com base em seu dispositivo específico e alguns outros fatores, como o tipo de radiação. Um medidor Geiger usa compensação de energia para criar uma leitura da dose.
+
+Depois de obter a leitura de CPM de seu dispositivo, você precisa descobrir o que essa leitura significa. Quais são os níveis normais de radiação CPM e quais são os perigosos? Se você tiver seu contador Geiger calibrado para Cs137, o que a maioria está, 1 miliRad por hora equivaleria a 1.200 CPM em seu contador. Ao mesmo tempo, 1 microSievert por hora equivaleria a 120 CPM na leitura. Essas são unidades de medida mais universais que podem ajudá-lo a entender melhor sua exposição à radiação.
+
+Uma leitura de CPM de pelo menos 100 é considerada um nível alarmante pela Rede de Radiação, embora o período de tempo que você fica exposto à radiação seja um fator importante. Se você está preocupado em permanecer dentro de níveis seguros de radiação, Ken Jorgustin explica no Blog de Sobrevivência Moderna que levaria 432 dias a um CPM de 100 para aumentar sua chance de desenvolver câncer para chances de 1 em 1.000. Com taxas de exposição mais altas, levaria menos tempo. Por exemplo, levaria apenas quatro dias para aumentar sua taxa para essas probabilidades se você fosse exposto a um nível de 10.000 CPM.
+
+Ao usar um detector Geiger Mueller, você poderá ver facilmente as contagens por minuto de radiação em uma determinada área. Isso pode ajudá-lo a entender mais sobre seu ambiente e sua exposição.
+
 ## Como é que se faz um Contador Geiger?
 
 Este site tem como proposição ensinar uma maneira de montar um simples contador Geiger utilizando a plataforma Arduino.
