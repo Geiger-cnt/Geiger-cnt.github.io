@@ -7,10 +7,10 @@ Bora medir radiação?!
 ## Uma breve introdução...
 
 ### O que é radiação?
-<div style='text-align: justify;'> "Em física, radiação é a propagação de energia de um ponto a outro, seja no vácuo ou em qualquer meio material, podendo ser classificada como energia em trânsito, e podendo ocorrer através de uma onda eletromagnética ou partícula.".</div> - Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o)
+"Em física, radiação é a propagação de energia de um ponto a outro, seja no vácuo ou em qualquer meio material, podendo ser classificada como energia em trânsito, e podendo ocorrer através de uma onda eletromagnética ou partícula."- Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o)
 
 ### Radiação ionizante
-<div style='text-align: justify;'> "Radiação ionizante é a radiação que possui energia suficiente para ionizar átomos e moléculas, ou seja, é capaz de arrancar um elétron de um átomo ou molécula. "</div> - Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_ionizante)
+"Radiação ionizante é a radiação que possui energia suficiente para ionizar átomos e moléculas, ou seja, é capaz de arrancar um elétron de um átomo ou molécula."- Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_ionizante)
 
 ### Tipos de radiação que existem
 
@@ -23,31 +23,19 @@ Bora medir radiação?!
 
 ### Instrumento de Aferição
 
-<div style='text-align: justify;'> A principal função do contador de Geiger é detectar radiação na atmosfera,  ele foi criado em 1908 pelo físico alemão Johannes Hans Geiger com o intuito de medir os níveis de radiação em corpos e no ambiente. Sua constituição conta com um tubo de argônio que ao ser atravessado por partículas radioativas alfa e beta se ioniza, causando o fechamento do circuito elétrico e acionando o contador de radiação. Sua importância se deve ao fato de auxiliar o trabalho de profissionais que utilizam a radiação em tratamentos de saúde e ainda é essencial no estudo de acidentes nucleares.
-
-</div>
+<div style='text-align: justify;'> A principal função do contador de Geiger é detectar radiação na atmosfera,  ele foi criado em 1908 pelo físico alemão Johannes Hans Geiger com o intuito de medir os níveis de radiação em corpos e no ambiente. Sua constituição conta com um tubo de argônio que ao ser atravessado por partículas radioativas alfa e beta se ioniza, causando o fechamento do circuito elétrico e acionando o contador de radiação. Sua importância se deve ao fato de auxiliar o trabalho de profissionais que utilizam a radiação em tratamentos de saúde e ainda é essencial no estudo de acidentes nucleares.<br><br></div>
 
 ### Unidade de medida (CPM)
 
-<div style='text-align: justify;'> CPM é a conatgem por minuto exibida no medidor análogo do contador Geiger. Você pode às vezes ver contagem por segundo (CPS), mas pode facilmente cnverter o CPM para contagem por segundo (CPS), dividindo o seu valor por 60."\n"
+<div style='text-align: justify;'> CPM é a conatgem por minuto exibida no medidor análogo do contador Geiger. Você pode às vezes ver contagem por segundo (CPS), mas pode facilmente cnverter o CPM para contagem por segundo (CPS), dividindo o seu valor por 60.<br><br></div>
 
-</div>
+<div style='text-align: justify;'> As medições de contagens por minuto são geralmente usadas para pegar o número de partículas ao redor, o que pode incluir partículas alfa ou beta. Em vez de mostrar a quantidade de radiação que algo está emitindo, os níveis de radiação do CPM informam quantos eventos de detecção o medidor capta. Portanto, o valor do CPM não mostra a quantidade ou a intensidade da radiação. . O dispositivo que você está usando para medir a radiação também pode informar a taxa de dose, embora a conversão de CPM para taxa de dose varie com base em seu dispositivo específico e alguns outros fatores, como o tipo de radiação. Um medidor Geiger usa compensação de energia para criar uma leitura da dose.<br><br></div>
 
-<div style='text-align: justify;'> As medições de contagens por minuto são geralmente usadas para pegar o número de partículas ao redor, o que pode incluir partículas alfa ou beta. Em vez de mostrar a quantidade de radiação que algo está emitindo, os níveis de radiação do CPM informam quantos eventos de detecção o medidor capta. Portanto, o valor do CPM não mostra a quantidade ou a intensidade da radiação. . O dispositivo que você está usando para medir a radiação também pode informar a taxa de dose, embora a conversão de CPM para taxa de dose varie com base em seu dispositivo específico e alguns outros fatores, como o tipo de radiação. Um medidor Geiger usa compensação de energia para criar uma leitura da dose."\n"
+<div style='text-align: justify;'> Depois de obter a leitura de CPM de seu dispositivo, você precisa descobrir o que essa leitura significa. Quais são os níveis normais de radiação CPM e quais são os perigosos? Se você tiver seu contador Geiger calibrado para Cs137, o que a maioria está, 1 miliRad por hora equivaleria a 1.200 CPM em seu contador. Ao mesmo tempo, 1 microSievert por hora equivaleria a 120 CPM na leitura. Essas são unidades de medida mais universais que podem ajudá-lo a entender melhor sua exposição à radiação.<br><br></div>
 
-</div>
+<div style='text-align: justify;'> Uma leitura de CPM de pelo menos 100 é considerada um nível alarmante pela Rede de Radiação, embora o período de tempo que você fica exposto à radiação seja um fator importante. Se você está preocupado em permanecer dentro de níveis seguros de radiação, Ken Jorgustin explica no Blog de Sobrevivência Moderna que levaria 432 dias a um CPM de 100 para aumentar sua chance de desenvolver câncer para chances de 1 em 1.000. Com taxas de exposição mais altas, levaria menos tempo. Por exemplo, levaria apenas quatro dias para aumentar sua taxa para essas probabilidades se você fosse exposto a um nível de 10.000 CPM.<br><br></div>
 
-<div style='text-align: justify;'> Depois de obter a leitura de CPM de seu dispositivo, você precisa descobrir o que essa leitura significa. Quais são os níveis normais de radiação CPM e quais são os perigosos? Se você tiver seu contador Geiger calibrado para Cs137, o que a maioria está, 1 miliRad por hora equivaleria a 1.200 CPM em seu contador. Ao mesmo tempo, 1 microSievert por hora equivaleria a 120 CPM na leitura. Essas são unidades de medida mais universais que podem ajudá-lo a entender melhor sua exposição à radiação.
-
-</div>
-
-<div style='text-align: justify;'> Uma leitura de CPM de pelo menos 100 é considerada um nível alarmante pela Rede de Radiação, embora o período de tempo que você fica exposto à radiação seja um fator importante. Se você está preocupado em permanecer dentro de níveis seguros de radiação, Ken Jorgustin explica no Blog de Sobrevivência Moderna que levaria 432 dias a um CPM de 100 para aumentar sua chance de desenvolver câncer para chances de 1 em 1.000. Com taxas de exposição mais altas, levaria menos tempo. Por exemplo, levaria apenas quatro dias para aumentar sua taxa para essas probabilidades se você fosse exposto a um nível de 10.000 CPM.
-
-</div>
-
-<div style='text-align: justify;'> Ao usar um detector Geiger Mueller, você poderá ver facilmente as contagens por minuto de radiação em uma determinada área. Isso pode ajudá-lo a entender mais sobre seu ambiente e sua exposição.
-
-</div>
+<div style='text-align: justify;'> Ao usar um detector Geiger Mueller, você poderá ver facilmente as contagens por minuto de radiação em uma determinada área. Isso pode ajudá-lo a entender mais sobre seu ambiente e sua exposição.<br><br></div>
 
 ## Como é que se faz um Contador Geiger?
 
@@ -69,15 +57,11 @@ Este site tem como proposição ensinar uma maneira de montar um simples contado
 
 ### Eletrônica
 
-<div style='text-align: justify;'> O componente de maior relevância para o projeto é o Módulo com Ampola, pois é essa ampola que permite a contagem da radiação do ambiente. Essa ampola consiste de um recipiente de vidro preenchido internamente por um gás inerte, o qual passa a conduzir eletricidade quando entra em contato com uma grande quantidade de energia, como as radiações alfa, beta e gama, por exemplo. Vale ressaltar que a maioria dos kits DIY (Faça Você Mesmo) já vêm com o circuito preparado de forma a facilitar a confecção de futuros projetos. Esse circuito elétrico instalado no módulo apresenta uma fonte de tensão, resistores, capacitores e transistores, como pode ser visualizado na seguinte representação:
-
-</div>
+<div style='text-align: justify;'> O componente de maior relevância para o projeto é o Módulo com Ampola, pois é essa ampola que permite a contagem da radiação do ambiente. Essa ampola consiste de um recipiente de vidro preenchido internamente por um gás inerte, o qual passa a conduzir eletricidade quando entra em contato com uma grande quantidade de energia, como as radiações alfa, beta e gama, por exemplo. Vale ressaltar que a maioria dos kits DIY (Faça Você Mesmo) já vêm com o circuito preparado de forma a facilitar a confecção de futuros projetos. Esse circuito elétrico instalado no módulo apresenta uma fonte de tensão, resistores, capacitores e transistores, como pode ser visualizado na seguinte representação:<br><br></div>
 
 ![Screenshot](imgs/cgm.png)
 
-<div style='text-align: justify;'> A placa Arduino é responsável pela comunicação entre o circuito e o computador. Essa placa microcontroladora apresenta uma série de pinos de saída e de entrada, além de um processador capaz de rodar o código escrito. Nesse projeto, os pinos de 5V e o GND do Arduino serão ligados aos pinos de 5V e GND do módulo. Já o pino VIN do contador Geiger será ligado diretamente ao pino de interrupção D2 do Arduino.
-
-</div>
+<div style='text-align: justify;'> A placa Arduino é responsável pela comunicação entre o circuito e o computador. Essa placa microcontroladora apresenta uma série de pinos de saída e de entrada, além de um processador capaz de rodar o código escrito. Nesse projeto, os pinos de 5V e o GND do Arduino serão ligados aos pinos de 5V e GND do módulo. Já o pino VIN do contador Geiger será ligado diretamente ao pino de interrupção D2 do Arduino.<br><br></div>
 
 ![Screenshot](imgs/cgm1.png)
 
