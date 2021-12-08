@@ -27,7 +27,7 @@ Bora medir radiação?!
 
 ### Unidade de medida (CPM)
 
-<div style='text-align: justify;'> CPM é a contagem por minuto exibida no medidor analógico do contador Geiger. Você pode às vezes ver contagem por segundo (CPS), mas pode facilmente converter o CPM para contagem por segundo (CPS), dividindo o seu valor por 60.<br><br></div>
+<div style='text-align: justify;'> CPM é a contagem por minuto exibida no medidor do contador Geiger. Você pode às vezes ver contagem por segundo (CPS), mas pode facilmente converter o CPM para contagem por segundo (CPS), dividindo o seu valor por 60.<br><br></div>
 
 <div style='text-align: justify;'> As medições de contagens por minuto são geralmente usadas para pegar o número de partículas ao redor, o que pode incluir partículas alfa ou beta. Em vez de mostrar a quantidade de radiação que algo está emitindo, os níveis de radiação do CPM informam quantos eventos de detecção o medidor capta. Portanto, o valor do CPM não mostra a quantidade ou a intensidade da radiação. O dispositivo que você está usando para medir a radiação também pode informar a taxa de dose, embora a conversão de CPM para taxa de dose varie com base em seu dispositivo específico e alguns outros fatores, como o tipo de radiação. Um medidor Geiger usa compensação de energia para criar uma leitura da dose.<br><br></div>
 
