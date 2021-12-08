@@ -7,10 +7,10 @@ Bora medir radiação?!
 ## Uma breve introdução...
 
 ### O que é radiação?
-"Em física, radiação é a propagação de energia de um ponto a outro, seja no vácuo ou em qualquer meio material, podendo ser classificada como energia em trânsito, e podendo ocorrer através de uma onda eletromagnética ou partícula."- Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o)
+"Em física, radiação é a propagação de energia de um ponto a outro, seja no vácuo ou em qualquer meio material, podendo ser classificada como energia em trânsito, e podendo ocorrer através de uma onda eletromagnética ou partícula." - Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o)
 
 ### Radiação ionizante
-"Radiação ionizante é a radiação que possui energia suficiente para ionizar átomos e moléculas, ou seja, é capaz de arrancar um elétron de um átomo ou molécula."- Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_ionizante)
+"Radiação ionizante é a radiação que possui energia suficiente para ionizar átomos e moléculas, ou seja, é capaz de arrancar um elétron de um átomo ou molécula." - Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_ionizante)
 
 ### Tipos de radiação que existem
 
@@ -23,13 +23,13 @@ Bora medir radiação?!
 
 ### Instrumento de Aferição
 
-<div style='text-align: justify;'> A principal função do contador de Geiger é detectar radiação na atmosfera,  ele foi criado em 1908 pelo físico alemão Johannes Hans Geiger com o intuito de medir os níveis de radiação em corpos e no ambiente. Sua constituição conta com um tubo de argônio que ao ser atravessado por partículas radioativas alfa e beta se ioniza, causando o fechamento do circuito elétrico e acionando o contador de radiação. Sua importância se deve ao fato de auxiliar o trabalho de profissionais que utilizam a radiação em tratamentos de saúde e ainda é essencial no estudo de acidentes nucleares.<br><br></div>
+<div style='text-align: justify;'> A principal função do contador de Geiger é detectar radiação na atmosfera, ele foi criado em 1908 pelo físico alemão Johannes Hans Geiger com o intuito de medir os níveis de radiação em corpos e no ambiente. Sua constituição conta com um tubo de argônio que ao ser atravessado por partículas radioativas alfa e beta se ioniza, causando o fechamento do circuito elétrico e acionando o contador de radiação. Sua importância se deve ao fato de auxiliar o trabalho de profissionais que utilizam a radiação em tratamentos de saúde e ainda é essencial no estudo de acidentes nucleares.<br><br></div>
 
 ### Unidade de medida (CPM)
 
-<div style='text-align: justify;'> CPM é a conatgem por minuto exibida no medidor análogo do contador Geiger. Você pode às vezes ver contagem por segundo (CPS), mas pode facilmente cnverter o CPM para contagem por segundo (CPS), dividindo o seu valor por 60.<br><br></div>
+<div style='text-align: justify;'> CPM é a contagem por minuto exibida no medidor analógico do contador Geiger. Você pode às vezes ver contagem por segundo (CPS), mas pode facilmente converter o CPM para contagem por segundo (CPS), dividindo o seu valor por 60.<br><br></div>
 
-<div style='text-align: justify;'> As medições de contagens por minuto são geralmente usadas para pegar o número de partículas ao redor, o que pode incluir partículas alfa ou beta. Em vez de mostrar a quantidade de radiação que algo está emitindo, os níveis de radiação do CPM informam quantos eventos de detecção o medidor capta. Portanto, o valor do CPM não mostra a quantidade ou a intensidade da radiação. . O dispositivo que você está usando para medir a radiação também pode informar a taxa de dose, embora a conversão de CPM para taxa de dose varie com base em seu dispositivo específico e alguns outros fatores, como o tipo de radiação. Um medidor Geiger usa compensação de energia para criar uma leitura da dose.<br><br></div>
+<div style='text-align: justify;'> As medições de contagens por minuto são geralmente usadas para pegar o número de partículas ao redor, o que pode incluir partículas alfa ou beta. Em vez de mostrar a quantidade de radiação que algo está emitindo, os níveis de radiação do CPM informam quantos eventos de detecção o medidor capta. Portanto, o valor do CPM não mostra a quantidade ou a intensidade da radiação. O dispositivo que você está usando para medir a radiação também pode informar a taxa de dose, embora a conversão de CPM para taxa de dose varie com base em seu dispositivo específico e alguns outros fatores, como o tipo de radiação. Um medidor Geiger usa compensação de energia para criar uma leitura da dose.<br><br></div>
 
 <div style='text-align: justify;'> Depois de obter a leitura de CPM de seu dispositivo, você precisa descobrir o que essa leitura significa. Quais são os níveis normais de radiação CPM e quais são os perigosos? Se você tiver seu contador Geiger calibrado para Cs137, o que a maioria está, 1 miliRad por hora equivaleria a 1.200 CPM em seu contador. Ao mesmo tempo, 1 microSievert por hora equivaleria a 120 CPM na leitura. Essas são unidades de medida mais universais que podem ajudá-lo a entender melhor sua exposição à radiação.<br><br></div>
 
