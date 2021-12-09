@@ -129,3 +129,15 @@ void loop() {
 }
 ```
 - [Código completo](https://github.com/Geiger-cnt/Geiger-cnt.github.io/blob/main/geiger/geiger.ino)
+
+## A radiação no meio ambiente
+
+<div style='text-align: justify;'> A radiação emitida pelas partículas de determinados elementos químicos pode trazer sérios problemas para o meio ambiente. Esses efeitos já eram estudados durante o século XX, porém, após o lançamento das bombas nucleares em Hiroshima e Nagasaki e a contaminação radioativa resultante de alguns testes nucleares, os efeitos nocivos da radioatividade foram alvos de grande preocupação.<br><br></div>
+	
+<div style='text-align: justify;'> A exposição a altas doses de radiação ionizante por um período prolongado pode ter efeito carcinogênico e alterar o genoma do indivíduo, além de, em casos de doses muito elevadas, é possível a ocorrência de lesões na pele. Contudo, o maior problema surge a longo prazo, como pode ser visto no caso da usina de Chernobyl, região abandonada desde 1986, quando ocorreu um acidente na sua usina nuclear, liberando grandes quantidades de materiais radioativos para o solo, o ar e os rios da região.<br><br></div>
+
+<div style='text-align: justify;'> Nesses casos de acidentes, as pessoas podem sofrer danos genéticos ou mais diretos. No caso dos danos aos genes, existe a possibilidade de ocorrência de deformações e mutações nos próprios indivíduos ou em seus descendentes, enquanto que os impactos nos corpos expostos diretamente queimaduras, tumores, câncer de órgãos, leucemia e problemas de fertilidade.<br><br></div>
+
+<div style='text-align: justify;'> Os elementos de maior risco são o iodo e o césio radioativos, os quais se constituem de subprodutos da fissão nuclear do Urânio. Essas substâncias apresentam tempos de meia vida relativamente altos, o que causa a sua permanência no meio ambiente por longos períodos de tempo. O iodo-131 tem um tempo de meia vida de, aproximadamente, 8 dias, porém, no caso do césio-137, esse período de meia vida corresponde a cerca de 30 anos.<br><br></div>
+
+<div style='text-align: justify;'> Vale ressaltar que a radiação não impede o crescimento de plantas e outros seres vivos nos ambientes cujos fatores abióticos foram contaminados, todavia, esses seres acabam absorvendo parte desse material, o qual vai adquirindo maior concentração no decorrer da cadeia alimentar por conta do processo biológico de magnificação trófica.</div>
