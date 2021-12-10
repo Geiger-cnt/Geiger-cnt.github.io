@@ -10,7 +10,7 @@ Bora medir radiação?!
 "Em física, radiação é a propagação de energia de um ponto a outro, seja no vácuo ou em qualquer meio material, podendo ser classificada como energia em trânsito, e podendo ocorrer através de uma onda eletromagnética ou partícula." - Texto retirado da [Wikipedia](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o)
 
 ### Radiação ionizante
-As radiações ionizantes são aquelas capazes de retirar um elétron de um átomo, excitá-lo e, dessa forma, gerar um íon. Essas modificações alteram a estrutura das moléculas temporariamente ou não, o que pode vir a causar sérios riscos às pessoas cujas células foram expostas a esse tipo de radiação.
+<div style='text-align: justify;'> As radiações ionizantes são aquelas capazes de retirar um elétron de um átomo, excitá-lo e, dessa forma, gerar um íon. Essas modificações alteram a estrutura das moléculas temporariamente ou não, o que pode vir a causar sérios riscos às pessoas cujas células foram expostas a esse tipo de radiação.<br><br></div>
 
 ### Tipos de radiação que existem
 
